@@ -1,0 +1,35 @@
+body{
+  margin: auto;
+  max-width: 500px;
+  background-color: #fefae0;
+}
+
+ h1, h3{
+  text-align: center;
+} 
+
+p{
+  margin: 5px;
+  line-height: 25px;
+}
+
+nav{
+  text-align: center;
+   margin-bottom: 50px;
+}
+
+a{
+  text-decoration: none;
+  color: #606c38;
+}
+
+.intro{
+   margin-bottom: 50px;
+   text-align: center;
+}
+
+/* yellow stone arch image */
+.image1{
+  width: 500px;
+  height: 300px;
+}
