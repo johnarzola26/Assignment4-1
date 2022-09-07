@@ -4,9 +4,24 @@ body{
   background-color: #fefae0;
 }
 
+address{
+  text-align: center;
+  margin-top: 100px;
+}
+
  h1, h3{
   text-align: center;
 } 
+
+.aboutTheSmokey{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.historySmokey{
+  text-align: center;
+  margin-top: 50px;
+}
 
 p{
   margin: 5px;
@@ -32,4 +47,17 @@ a{
 .image1{
   width: 500px;
   height: 300px;
+}
+
+.mainPageFooter{
+  margin-top: 50px;
+}
+
+footer{
+  text-align: center;
+}
+
+.topPageLink{
+  text-align: center;
+  margin-top: 100px;
 }
